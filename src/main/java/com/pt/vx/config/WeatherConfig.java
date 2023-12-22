@@ -29,7 +29,7 @@ public class WeatherConfig {
      * 1 为天气预报
      * 默认天气预报
      */
-    public static Integer getWeatherType = 0;
+    public static Integer getWeatherType = 1;
 
 
 }
