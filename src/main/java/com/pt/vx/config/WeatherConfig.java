@@ -21,7 +21,7 @@ public class WeatherConfig {
      * 0 为高德地图
      * 1 为和风天气
      */
-    public static Integer weatherSourceType = 0;
+    public static Integer weatherSourceType = 1;
 
     /**
      * 天气类型
