@@ -38,7 +38,7 @@ public class WechatConfig {
      */
     static {
         userList.add(getUser(
-                "oFTEU6VJS1Othyvu0Cqvu9_bYihY", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "oFTEU6fZmdLP8tn6wAdnKTykWXo4", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "KDtQqvFG64bU9Ds6fAZ3spB42w9SJWDR6rwVOc7y5IU", //要给这个人发送的模板ID
                 "棚子", //咋称呼这个人
                 "广西柳州鱼峰区", //这个人的详细地址
@@ -50,7 +50,7 @@ public class WechatConfig {
         ));
 
          userList.add(getUser(
-                "oFTEU6fZmdLP8tn6wAdnKTykWXo4", //扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "oFTEU6VJS1Othyvu0Cqvu9_bYihY", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "U5VbwFjG3Xh7bLgh62Ge3nZBGe9AY9vjjIJ_8CTx4go", //要给这个人发送的模板ID
                 "棚子", //咋称呼这个人
                 "广西柳州鱼峰区", //这个人的详细地址
