@@ -141,7 +141,7 @@ public class KeyConfig {
     /**
      * 新冠
      */
-    public static final KeyDTO KEY_XIN_GUAN= new KeyDTO("xinGuan","#FFFFFF",true);
+    // public static final KeyDTO KEY_XIN_GUAN= new KeyDTO("xinGuan","#FFFFFF",true);
 
 
 
