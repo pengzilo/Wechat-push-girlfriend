@@ -11,7 +11,7 @@ public class MainConfig {
      * 0 正常模式
      * 1 主人模式
      */
-    public static Integer messageMode = 1;
+    public static Integer messageMode = 0;
 
 
 
@@ -70,7 +70,7 @@ public class MainConfig {
      * true 开启
      * false 关闭
      */
-    public static boolean randomMessageColorMode = true;
+    public static boolean randomMessageColorMode = false;
 
     /**
      * 参与随机的颜色
@@ -85,7 +85,7 @@ public class MainConfig {
      * 1：只展示一种，优先展示纪念日
      * 2：全部展示
      */
-    public static Integer otherInfoMode = 1;
+    public static Integer otherInfoMode = 2;
 
     public static List<WeatherOtherInfo>  weatherOtherInfos = new ArrayList<>();
 
