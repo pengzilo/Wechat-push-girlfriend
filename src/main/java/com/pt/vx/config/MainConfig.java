@@ -11,7 +11,7 @@ public class MainConfig {
      * 0 正常模式
      * 1 主人模式
      */
-    public static Integer messageMode = 0;
+    public static Integer messageMode = 1;
 
 
 
