@@ -25,7 +25,7 @@ public class KeyConfig {
     /**
      * 日期
      */
-    public static final KeyDTO KEY_DATE = new KeyDTO("date","#FFFFFF",true);
+    public static final KeyDTO KEY_DATE = new KeyDTO("date","#66ffcc",true);
     /**
      * 星期
      */
@@ -41,7 +41,7 @@ public class KeyConfig {
     /**
      * 白天风向
      */
-    public static final KeyDTO KEY_WIND_DAY = new KeyDTO("windDay","#FFFFFF",true);
+    public static final KeyDTO KEY_WIND_DAY = new KeyDTO("windDay","#66ffcc",true);
     /**
      * 白天风力
      */
