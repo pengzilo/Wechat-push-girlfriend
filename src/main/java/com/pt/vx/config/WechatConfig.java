@@ -43,8 +43,8 @@ public class WechatConfig {
                 "棚子", //咋称呼这个人
                 "广西柳州鱼峰区", //这个人的详细地址
                 "柳州", //这个人在的城市
-                new BirthDay(2003,9,29,false,true,"棚子生日快乐！！"),
-                new BirthDay(2003,8,11,false,true,"生日快乐哦~~"),
+                new BirthDay(2024,9,29,false,true,"棚子生日快乐！！"),
+                new BirthDay(2024,8,11,false,true,"生日快乐哦~~"),
                 new BirthDay(2023,3,15,false,true),
                 new BirthDay(2022,8,11,false,true,"周年快乐！！！")
         ));
