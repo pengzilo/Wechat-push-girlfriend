@@ -11,7 +11,7 @@ public class KeyConfig {
     /**
      * 昵称，在模板里面就是{{userName.DATA}}
      */
-    public static final KeyDTO KEY_USER_NAME = new KeyDTO("userName", "#FFFFFF", true);
+    public static final KeyDTO KEY_USER_NAME = new KeyDTO("userName", "#ffaaff", true);
 
     /**
      * 日期计算
@@ -33,7 +33,7 @@ public class KeyConfig {
     /**
      * 白天天气
      */
-    public static final KeyDTO KEY_WEATHER_DAY = new KeyDTO("weatherDay","#FFFFFF",true);
+    public static final KeyDTO KEY_WEATHER_DAY = new KeyDTO("weatherDay","#66ffff",true);
     /**
      * 白天温度
      */
